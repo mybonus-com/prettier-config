@@ -1,0 +1,15 @@
+{
+	"name": "@mybonus-com/prettier-config",
+	"version": "1.0.0",
+	"description": "Prettier configuration for MyBonus",
+	"main": "index.json",
+	"author": "Johan Kanefur <johan.kanefur@mybonus.com>",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/mybonus-com/prettier-config.git"
+	},
+	"peerDependencies": {
+		"prettier": ">= 2"
+	}
+}
