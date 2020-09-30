@@ -1,6 +1,6 @@
 {
 	"name": "@mybonus-com/prettier-config",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Prettier configuration for MyBonus",
 	"main": "index.json",
 	"author": "Johan Kanefur <johan.kanefur@mybonus.com>",
